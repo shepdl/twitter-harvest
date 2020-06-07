@@ -1,0 +1,10 @@
+CONFIG = [
+    {
+        "name": "Sample",
+        "twitter_oauth_token" : "",
+        "twitter_oauth_token_secret" : "",
+        "twitter_consumer_key" : "",
+        "twitter_consumer_secret" : "",
+    },
+]
+

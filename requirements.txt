@@ -1,0 +1,2 @@
+simplejson==3.17.0
+twitter==1.18.0
